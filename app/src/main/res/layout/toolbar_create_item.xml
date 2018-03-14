@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tbAddDoc"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#1b9fe1">
+
+    <ImageView
+        android:id="@+id/ivBack"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="20dp"
+        android:background="@drawable/ic_action_arrow_back" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="left"
+        android:layout_marginLeft="20dp"
+        android:textStyle="bold"
+        android:gravity="bottom"
+        android:text="Create Item"
+        android:textColor="#ffffff"
+        android:textSize="18dp" />
+
+
+    <TextView
+        android:id="@+id/tvSave"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="right"
+        android:layout_marginRight="20dp"
+        android:text="SAVE"
+        android:textColor="#ffffff"
+        android:textSize="14dp" />
+
+
+</android.support.v7.widget.Toolbar>

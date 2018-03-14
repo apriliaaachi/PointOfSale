@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-67:12
 MERGED from [com.android.support:design:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\8df66ab391782b60abcb3161e88ef578\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7012bdc7506cb53adde0eb233c4b96b2\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\090ee2340d94c0bf94781427c0c21fba\AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Asus\.gradle\c
 MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b92e434e5c7fcd96580e5fcfe703a26a\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\3fbf23049ce62dc3735477b43451d101\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\50a74a2820a016cda18a37f088f2fb59\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
-INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-67:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-67:12
 	package
 		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:3:11-41
 		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-67:12
 		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-67:12
 		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:5:5-43:19
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:5:5-65:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\090ee2340d94c0bf94781427c0c21fba\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\090ee2340d94c0bf94781427c0c21fba\AndroidManifest.xml:9:5-20
 	android:supportsRtl
@@ -52,67 +52,93 @@ MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\As
 	android:theme
 		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:11:9-40
 activity#com.zyra.pointofsale.LoginActivity
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:12:9-19:20
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:12:9-21:20
+	android:screenOrientation
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:15:13-49
 	android:label
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:13:13-43
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:14:13-43
 	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:12:19-68
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:13:13-62
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:14:13-18:29
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:16:13-20:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:15:17-68
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:17:17-68
 	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:15:25-66
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:17:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:17:17-76
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:19:17-76
 	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:17:27-74
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.zyra.pointofsale.MainActivity
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:20:9-21:44
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:23:9-27:51
+	android:screenOrientation
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:27:13-49
 	android:label
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:21:13-42
-	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:20:19-67
-activity#com.zyra.pointofsale.BarangActivity
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:22:9-25:20
-	android:parentActivityName
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:23:13-75
-	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:22:19-69
-activity#com.zyra.pointofsale.Payment_status_activity
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:26:9-27:25
-	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:26:19-78
-activity#com.zyra.pointofsale.EmployeeActivity
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:28:9-30:88
-	android:parentActivityName
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:30:13-86
-	android:label
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:29:19-43
-	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:28:19-71
-activity#com.zyra.pointofsale.PopActivity
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:32:9-34:52
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:25:13-42
 	android:theme
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:34:13-50
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:26:13-56
 	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:32:19-66
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:24:13-61
+activity#com.zyra.pointofsale.BarangActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:29:9-33:51
+	android:screenOrientation
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:33:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:31:13-75
+	android:theme
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:32:13-56
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:30:13-63
+activity#com.zyra.pointofsale.Payment_status_activity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:36:9-39:51
+	android:screenOrientation
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:39:13-49
+	android:theme
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:37:13-72
+activity#com.zyra.pointofsale.EmployeeActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:41:9-46:51
+	android:screenOrientation
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:46:13-49
+	android:parentActivityName
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:44:13-86
+	android:label
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:43:13-37
+	android:theme
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:45:13-56
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:42:13-65
+activity#com.zyra.pointofsale.PopActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:48:9-50:52
+	android:theme
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:50:13-50
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:49:13-60
 activity#com.zyra.pointofsale.CreateItemActivity
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:36:9-38:88
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:52:9-57:51
+	android:screenOrientation
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:57:13-49
 	android:parentActivityName
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:38:13-86
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:55:13-86
 	android:label
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:37:19-46
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:54:13-40
+	android:theme
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:56:13-56
 	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:36:19-73
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:53:13-67
 activity#com.zyra.pointofsale.RecordTransactionActivity
-ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:40:9-42:83
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:59:9-64:51
+	android:screenOrientation
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:64:13-49
 	android:parentActivityName
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:42:19-81
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:62:13-75
 	android:label
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:41:19-53
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:61:13-47
+	android:theme
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:63:13-56
 	android:name
-		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:40:19-80
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:60:13-74
 uses-sdk
 INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml

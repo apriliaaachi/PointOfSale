@@ -1,4 +1,4 @@
-#Thu Mar 15 00:18:53 ICT 2018
+#Thu Mar 15 02:43:48 ICT 2018
 base.0=C\:\\Users\\Asus\\AndroidStudioProjects\\PointOfSale\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex

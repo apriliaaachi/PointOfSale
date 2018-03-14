@@ -9,37 +9,59 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="com.zyra.pointofsale.LoginActivity"
-            android:label="LOGIN ACTIVITY">
+        <activity
+            android:name="com.zyra.pointofsale.LoginActivity"
+            android:label="LOGIN ACTIVITY"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
 
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <activity android:name="com.zyra.pointofsale.MainActivity"
-            android:label="Point Of Sale"/>
-        <activity android:name="com.zyra.pointofsale.BarangActivity"
-            android:parentActivityName="com.zyra.pointofsale.MainActivity">
 
-        </activity>
-        <activity android:name="com.zyra.pointofsale.Payment_status_activity"
-            ></activity>activity>
-        <activity android:name="com.zyra.pointofsale.EmployeeActivity"
-                  android:label="Employee"
-            android:parentActivityName="com.zyra.pointofsale.Payment_status_activity"/>
+        <activity
+            android:name="com.zyra.pointofsale.MainActivity"
+            android:label="Point Of Sale"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
 
-        <activity android:name="com.zyra.pointofsale.PopActivity"
+        <activity
+            android:name="com.zyra.pointofsale.BarangActivity"
+            android:parentActivityName="com.zyra.pointofsale.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
 
+
+        <activity
+            android:name="com.zyra.pointofsale.Payment_status_activity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="com.zyra.pointofsale.EmployeeActivity"
+            android:label="Employee"
+            android:parentActivityName="com.zyra.pointofsale.Payment_status_activity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
+
+        <activity
+            android:name="com.zyra.pointofsale.PopActivity"
             android:theme="@style/AppTheme.PopMe"/>
 
-        <activity android:name="com.zyra.pointofsale.CreateItemActivity"
-                  android:label="Create Item"
-            android:parentActivityName="com.zyra.pointofsale.Payment_status_activity"/>
+        <activity
+            android:name="com.zyra.pointofsale.CreateItemActivity"
+            android:label="Create Item"
+            android:parentActivityName="com.zyra.pointofsale.Payment_status_activity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
 
-        <activity android:name="com.zyra.pointofsale.RecordTransactionActivity"
-                  android:label="Record Transaction"
-                  android:parentActivityName="com.zyra.pointofsale.MainActivity"/>
+        <activity
+            android:name="com.zyra.pointofsale.RecordTransactionActivity"
+            android:label="Record Transaction"
+            android:parentActivityName="com.zyra.pointofsale.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:screenOrientation="portrait"/>
     </application>
 
 </manifest>

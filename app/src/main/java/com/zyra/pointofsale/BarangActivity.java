@@ -43,8 +43,8 @@ public class BarangActivity extends AppCompatActivity {
         TextView Totalvalue = (TextView) findViewById(R.id.Total_value);
         Totalvalue.setText("Rp 900.000");
 
-        EditText editSubtotal = (EditText) findViewById(R.id.Edit_harga);
-        ImageButton mImageBtn = (ImageButton) findViewById(R.id.add2);
+        EditText editSubtotal = (EditText) findViewById(R.id.etDiscount);
+        ImageButton mImageBtn = (ImageButton) findViewById(R.id.addDiscount);
 
         Button mPayCashButton = (Button) findViewById(R.id.cash_button);
         Button mPayCardButton = (Button) findViewById(R.id.card);
