@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+MERGED from [com.android.support:design:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\8df66ab391782b60abcb3161e88ef578\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7012bdc7506cb53adde0eb233c4b96b2\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\090ee2340d94c0bf94781427c0c21fba\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\26e7563f2dcc141ff7539ed996bd0462\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6823e345ca3a32449eafb1040974f6d5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\d185f5a5010c8ade2b177003acdc8fd3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\09b47c0c624672c02cb9c498d5d54106\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4642b037910a00bffb0c41218df7da68\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\2a10088517f044f5a6f7a785771a3a47\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\dbabbc950d47b0778c690aeb686ad3cb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6531fcf48ed6257ce095627d5190d0eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b92e434e5c7fcd96580e5fcfe703a26a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\3fbf23049ce62dc3735477b43451d101\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\50a74a2820a016cda18a37f088f2fb59\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+	package
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:3:11-41
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:1-45:12
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:5:5-43:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\090ee2340d94c0bf94781427c0c21fba\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\090ee2340d94c0bf94781427c0c21fba\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.zyra.pointofsale.LoginActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:12:9-19:20
+	android:label
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:13:13-43
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:12:19-68
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:15:17-68
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:17:17-76
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:17:27-74
+activity#com.zyra.pointofsale.MainActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:20:9-21:44
+	android:label
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:21:13-42
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:20:19-67
+activity#com.zyra.pointofsale.BarangActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:22:9-25:20
+	android:parentActivityName
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:23:13-75
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:22:19-69
+activity#com.zyra.pointofsale.Payment_status_activity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:26:9-27:25
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:26:19-78
+activity#com.zyra.pointofsale.EmployeeActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:28:9-30:88
+	android:parentActivityName
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:30:13-86
+	android:label
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:29:19-43
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:28:19-71
+activity#com.zyra.pointofsale.PopActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:32:9-34:52
+	android:theme
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:34:13-50
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:32:19-66
+activity#com.zyra.pointofsale.CreateItemActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:36:9-38:88
+	android:parentActivityName
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:38:13-86
+	android:label
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:37:19-46
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:36:19-73
+activity#com.zyra.pointofsale.RecordTransactionActivity
+ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:40:9-42:83
+	android:parentActivityName
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:42:19-81
+	android:label
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:41:19-53
+	android:name
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml:40:19-80
+uses-sdk
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\8df66ab391782b60abcb3161e88ef578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\design-27.0.2.aar\8df66ab391782b60abcb3161e88ef578\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7012bdc7506cb53adde0eb233c4b96b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.0.2.aar\7012bdc7506cb53adde0eb233c4b96b2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\090ee2340d94c0bf94781427c0c21fba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\090ee2340d94c0bf94781427c0c21fba\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\26e7563f2dcc141ff7539ed996bd0462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-v4-27.0.2.aar\26e7563f2dcc141ff7539ed996bd0462\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6823e345ca3a32449eafb1040974f6d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-fragment-27.0.2.aar\6823e345ca3a32449eafb1040974f6d5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\d185f5a5010c8ade2b177003acdc8fd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.0.2.aar\d185f5a5010c8ade2b177003acdc8fd3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\09b47c0c624672c02cb9c498d5d54106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.0.2.aar\09b47c0c624672c02cb9c498d5d54106\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4642b037910a00bffb0c41218df7da68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.0.2.aar\4642b037910a00bffb0c41218df7da68\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\2a10088517f044f5a6f7a785771a3a47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.0.2.aar\2a10088517f044f5a6f7a785771a3a47\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\dbabbc950d47b0778c690aeb686ad3cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\transition-27.0.2.aar\dbabbc950d47b0778c690aeb686ad3cb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6531fcf48ed6257ce095627d5190d0eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.0.2.aar\6531fcf48ed6257ce095627d5190d0eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b92e434e5c7fcd96580e5fcfe703a26a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.0.2.aar\b92e434e5c7fcd96580e5fcfe703a26a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\3fbf23049ce62dc3735477b43451d101\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.0.2] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\support-compat-27.0.2.aar\3fbf23049ce62dc3735477b43451d101\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\50a74a2820a016cda18a37f088f2fb59\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.3] C:\Users\Asus\.gradle\caches\transforms-1\files-1.1\runtime-1.0.3.aar\50a74a2820a016cda18a37f088f2fb59\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asus\AndroidStudioProjects\PointOfSale\app\src\main\AndroidManifest.xml

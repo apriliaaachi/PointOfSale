@@ -1,0 +1,7 @@
+#Wed Mar 14 15:12:05 ICT 2018
+base.0=C\:\\Projects\\UITest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_774df4957f1f1e0711443f7c91f728640162cbc7
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Projects\\UITest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aafd55e20d5ad8c9caac022809c407f57fdad4de\\classes.dex
+base.1=C\:\\Projects\\UITest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_aafd55e20d5ad8c9caac022809c407f57fdad4de
+file.0=C\:\\Projects\\UITest\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_774df4957f1f1e0711443f7c91f728640162cbc7\\classes.dex

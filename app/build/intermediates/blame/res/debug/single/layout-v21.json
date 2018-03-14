@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Projects\\UITest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Zyra\\.android\\build-cache\\3642a1265580e50101ddc8f4c44ccbc4c89afb3b\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Projects\\UITest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Zyra\\.android\\build-cache\\3642a1265580e50101ddc8f4c44ccbc4c89afb3b\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Projects\\UITest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Zyra\\.android\\build-cache\\3642a1265580e50101ddc8f4c44ccbc4c89afb3b\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Projects\\UITest\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Zyra\\.android\\build-cache\\3642a1265580e50101ddc8f4c44ccbc4c89afb3b\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Projects\\UITest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_create_activity.xml",
+        "source": "C:\\Projects\\UITest\\app\\src\\main\\res\\menu\\menu_create_activity.xml"
+    },
+    {
+        "merged": "C:\\Projects\\UITest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_employee.xml",
+        "source": "C:\\Projects\\UITest\\app\\src\\main\\res\\menu\\menu_employee.xml"
+    },
+    {
+        "merged": "C:\\Projects\\UITest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_record.xml",
+        "source": "C:\\Projects\\UITest\\app\\src\\main\\res\\menu\\menu_record.xml"
+    },
+    {
+        "merged": "C:\\Projects\\UITest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu.xml",
+        "source": "C:\\Projects\\UITest\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Projects\\UITest\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_barang.xml",
+        "source": "C:\\Projects\\UITest\\app\\src\\main\\res\\menu\\menu_barang.xml"
+    }
+]

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.2_49bc052186dc6556829e72101f8f780c0e99632a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\aa5e557eef6b5cd8be62abcea663e5b9a336c02d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="031cc16b7b6e77b3c050134ecab9fa5c2640a069">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_3dfc7c88858583d3fccab114a62d9cf2878c57be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\37d0c2976988b511331cc70ede308341a14c8dad\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_a541cc0c21c752906f2bb179ca9ae9c0c002bdf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\common-1.0.0_a368b1d1fb855d83d16b56d42debe30c329f45c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\a23b644d64b1a57e291020ba6d7df92e1da9014e\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_176a487827602457acc27ecd79b3a77c579c2934.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\3916ee3d8ae6b19047d7dcaedb235474097ff4ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_1f2d1850ec3483a7e3f46e8382c93df1e2fbf82e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\b688ce579f9ea49f2b93be5a7d8a66c3a749a640\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_eab7c950805ecffca4e9e935d637db78a92e5816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\44319f443444e8a7a09e5543a47b39b528e36a4b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_e0b888b6beed83faf76b99dfd765f560ed3014db.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\UITest\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_aafd55e20d5ad8c9caac022809c407f57fdad4de\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\c3bb92127d1c79a3276fced7db8153acdfb0dcfc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_f16444bb535e6bf69ebdf75c3e9477af55f467a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\AppData\Local\Android\Sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_46ba769b06526dc0b0ef3a5b1289a35a8854d41c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\9eb1c617d17c35ce2a0dc9ac6a44f2d6404283cc\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_20aa4b012ee60a22117fd215bf2bbbb4d82deae1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\fa2ca409803c6fff279a21f0b24e47de11aefc2b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_109f14059ac6c57f14c472dd6faacec04acdbc6f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\0baed41354827d36e5024bc9a8cdee858338403c\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="bcd0bcdef85b31a656af76e39c0c95ce70800772">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_0f56069fb7c41209ef82f892407848090dfbd9f1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\2b722e3ec7b60487d68bf135b32b88f3f7b22caa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a5fa2e3704f51b30b7b47e12a3a2909728799583">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_a0d7490ee52f42ebee7a0b778be0a6e98c88235a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\common-1.0.3_358d3acac4523b3324c13bd2d1d9ee52c8ca44b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\74ea9406944a5d291e75621a324013edddd29098\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_a1944a61436fee387902adf0755db36c8bd1ba57.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Projects\UITest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7295caa54fb720ffb94cc5c6badc5ecee39f87b7">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_774df4957f1f1e0711443f7c91f728640162cbc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\544de4558e9fbf0f2cbae35540a06afca0d97dc0\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="25c8cb628374f9a2d59ff9e1172753751e9a9f84">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_2d2e071e32f2675dbcaa42320bcbb0f6b82b6ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Zyra\.android\build-cache\3642a1265580e50101ddc8f4c44ccbc4c89afb3b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Projects\UITest\app\build\intermediates\pre-dexed\debug\classes_5118d1f64abdc399a7991d3d7d4441151d04e1e0.jar" />
+    </item>
+
+</items>

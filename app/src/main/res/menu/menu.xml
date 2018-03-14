@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+      xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/back"
+        android:orderInCategory="1"
+        android:icon="@drawable/shop"
+        android:title="back"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/employee"
+          android:orderInCategory="1"
+          android:title="Employee"
+          app:showAsAction="collapseActionView"/>
+
+    <item   android:id="@+id/create_item"
+            android:orderInCategory="2"
+            android:title="Create Item"
+            app:showAsAction="collapseActionView"/>
+    <item android:id="@+id/record_transaction"
+          android:orderInCategory="3"
+          android:title="Record Transaction"
+          app:showAsAction="collapseActionView"/>
+
+
+
+</menu>
